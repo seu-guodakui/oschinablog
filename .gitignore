@@ -1,3 +1,6 @@
-_site/
-.sass-cache/
-.jekyll-metadata
+_site/*
+*~
+~*
+notpush_*
+mysh_*
+tmp_*
